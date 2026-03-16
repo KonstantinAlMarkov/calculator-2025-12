@@ -1,4 +1,4 @@
-from calculator.sum import sum
+from calculator.exponentiation import exponentiation
 
 
 def test_exponentiation():
